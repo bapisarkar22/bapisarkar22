@@ -9,23 +9,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🎯 Aspiring Data Analyst | 📊 Passionate about Data | 💻 Lifelong Learner  
-
+🎯 Aspiring Data Analyst | 📊 Passionate about Data | 💻 Lifelong Learner 
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I am a student aiming to become a **Data Analyst**
-- 📊 I love working with data, finding insights, and solving problems
-- 🌱 Currently learning **Python, SQL, and Data Visualization**
-- 🚀 Goal: To build real-world projects and get a job as a Data Analyst
-- 💡 Interested in analytics, business intelligence, and data-driven decision making
+Hi, I'm Bapi Sarkar — an aspiring Data Analyst passionate about turning raw data into meaningful insights. I enjoy working with Python, SQL, and data visualization tools to solve real-world problems and support data-driven decision making.
 
 ## 🗃️ My Projects
+| Project                                                                       | Idea                                          | Status           |   
+|-------------------------------------------------------------------------------|-----------------------------------------------|------------------|
+| [`Realtime-Chatting App`](https://github.com/bapisarkar22/Real-Time-Chatting) | Chat with your friends in a secured environment | ✅ Completed   |
+| [`Job-Portal`](https://github.com/bapisarkar22/Job-portal)                    | Find your dream job in this userfriendly website | ✅ Completed   |
 
-| Project                                                                       | Idea                                           | Status            |
-|-------------------------------------------------------------------------------|-------------------------------- ---------------|------------------|
-| [`Realtime-Chatting App`](https://github.com/bapisarkar22/Real-Time-Chatting) | Chat with your friends in a secured environment| ✅ Completed         |
-| [`Job-Portal`](https://github.com/bapisarkar22/Job-portal) | Find your dream job in this userfriendly website | ✅ Completed          |
 
 
 ## <a href="#"><img width='45px' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Arrow-slash"></a> My Skills
@@ -52,11 +47,9 @@ Data Analytics|  Data Cleaning, Data Visualization, Basic Statistics
 <p align="center">
   <a href="#"><img loading="lazy" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=bapisarkar22&bg_color=141321&color=00b8b5&line=eb008b&point=d4b941&area=true&hide_border=true&hide_title=true" alt="Contribution Summary"/></a>
 
-
 ## ✨ Fun Fact
 
 I enjoy turning raw data into meaningful insights 📊
-
 
 ## <a href="#"><img width="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Connect with me
 
