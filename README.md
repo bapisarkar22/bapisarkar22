@@ -20,30 +20,37 @@
 - 🚀 Goal: To build real-world projects and get a job as a Data Analyst
 - 💡 Interested in analytics, business intelligence, and data-driven decision making
 
+## 🗃️ My Projects
 
-## 🛠️ Skills
+| Project                                                                       | Idea                                           | Status            |
+|-------------------------------------------------------------------------------|-------------------------------- ---------------|------------------|
+| [`Realtime-Chatting App`](https://github.com/bapisarkar22/Real-Time-Chatting) | Chat with your friends in a secured environment| ✅ Completed         |
+| [`Job-Portal`](https://github.com/bapisarkar22/Job-portal) | Find your dream job in this userfriendly website | ✅ Completed          |
 
-### 💻 Programming & Tools
-- Python 🐍
-- SQL 🗄️
-- Excel 📈
-- Git & GitHub 🔧
 
-### 📊 Data Analytics
-- Data Cleaning
-- Data Visualization (Matplotlib, Seaborn)
-- Exploratory Data Analysis (EDA)
-- Basic Statistics
+## <a href="#"><img width='45px' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Arrow-slash"></a> My Skills
 
+```text
+Languages   |  Python, JavaScript, C,
+Libraries   |  React
+Frameworks  |  NextJs, TailwindCSS, Express.js
+Tools       |  Git, Power BI, Excel
+Databases   |  MySQL, MongoDB 
+Data Analytics|  Data Cleaning, Data Visualization, Basic Statistics
+```
 
 ## 📈 GitHub Stats
 
-![Bapi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bapisarkar22&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bapisarkar22&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bapisarkar22&theme=tokyonight)
+<p align="center">
+  <a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=bapisarkar22&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Profile Stats"/></a>
+  <a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bapisarkar22&layout=compact&&show_icons=true&theme=radical&hide_border=true" alt="Language Stats"/></a>
+</p>
+</p>
+<p align="center">
+  <a href="#"><img src="https://montasim-github-profile-trophy.vercel.app?username=bapisarkar22&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies"/></a>
+</p>
+<p align="center">
+  <a href="#"><img loading="lazy" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=bapisarkar22&bg_color=141321&color=00b8b5&line=eb008b&point=d4b941&area=true&hide_border=true&hide_title=true" alt="Contribution Summary"/></a>
 
 
 ## ✨ Fun Fact
@@ -51,7 +58,7 @@
 I enjoy turning raw data into meaningful insights 📊
 
 
-## 🌐 Connect with Me
+## <a href="#"><img width="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
